@@ -35,7 +35,7 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tddudwns1)](https://solved.ac/tddudwns1/)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tddudwns1">
         <img src="https://github-readme-stats.vercel.app/api?username=tddudwns1&bg_color=180,00000000,b4ff94&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tddudwns1&layout=compact&bg_color=180,00000000,b4ff94&title_color=000000&text_color=000000"
            /> </div> 
