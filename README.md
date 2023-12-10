@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍋 'bout me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요? 성영준입니다.<br></li>웹 백엔드 개발자를 목표로 하고 있습니다.<br></li>Java, Spring 을 공부하고 있습니다.<br></li>현재는 SSAFY 에서 java track을 이수하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 성영준입니다.<br></li>웹 백엔드 개발자를 목표로 하고 있습니다.<br></li>Java, Spring 을 공부하고 있습니다.<br></li>현재는 SSAFY 에서 java track을 이수하고 있습니다. </div> 
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tddudwns1">
