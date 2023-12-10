@@ -39,6 +39,6 @@
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftddudwns1%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
-    <img src="https://capsule-render.vercel.app/api?section=footer&reversal=true&type=waving&color=0:ff7a7a,100:61ff7b&height=180&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:61ff7b,100:ff7a7a&height=180&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     
